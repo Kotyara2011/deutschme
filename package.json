@@ -10,6 +10,7 @@
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
+    "framer-motion": "^10.12.16"
   },
   "devDependencies": {
     "@vitejs/plugin-react": "^4.0.0",
@@ -19,3 +20,4 @@
     "vite": "^4.4.9"
   }
 }
+
